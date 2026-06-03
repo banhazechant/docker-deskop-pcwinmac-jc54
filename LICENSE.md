@@ -1,4 +1,4 @@
-# 
+# مميز Docker Desktop سير العمل لـ Mac OS | آمن Docker Desktop سير العمل لـ PC Windows. مع توثيق API و دعم GraphQL — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
